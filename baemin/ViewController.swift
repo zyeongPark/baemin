@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+//패턴은 mvc로 해서 거기에 익숙해지도록 하자.
 
 }
 
